@@ -1,5 +1,6 @@
 {
   "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
+  "bg_desafio": "https://www.brunodulcetti.com/static/fcd30c8735ee8c71261d0e79b7ee5c47/c30ee/css.webp",
   "title": "Quiz CSS da Alura",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
